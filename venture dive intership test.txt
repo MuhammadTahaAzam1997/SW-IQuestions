@@ -1,0 +1,10 @@
+
+1.Database query to find the total no of A+ student from table.
+2. recursive even odd
+3. recursive factorial
+4. static/ dynamic binding
+5. oop
+6. encapsulation
+7. complexity of nested loop
+
+

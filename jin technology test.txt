@@ -1,0 +1,4 @@
+1. recursive factorial program
+2. finding words in string
+3. finding character in repetation
+4. while loop program

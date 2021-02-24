@@ -1,0 +1,11 @@
+Test Driven Development(TDD)
+Difference btw Kubernetes & Dockers
+Create programs for Finding out same chars in String
+Create program to find out the second largest integer
+geek fact you know
+how to stop spring boot auto configuration
+lazzy method
+what is cross join in DB
+
+
+
